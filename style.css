@@ -1,0 +1,33 @@
+/* So begins the styling for our class. Enter at your own risk */
+body {
+    background-color:grey;
+}
+
+p {
+    color: pink;
+    font-size: 18px;
+
+}
+
+.border1 {
+    width: 650px;
+    border-style: groove;
+    border-color: darkslategrey;
+    padding: 5px;
+    border-width: 2px;
+}
+
+h1 {
+    color: rgb(75, 9, 75)
+}
+
+h4 {
+    color: rgb(75, 9, 75);
+    font-family: "Lucida Sans", "Arial";
+}
+
+img {
+    border-style: groove;
+    border-color: darkslategray;
+    padding: 5px;
+}
